@@ -1,0 +1,1008 @@
+<div class="deckgrid ng-isolate-scope" smart-infinite-scroll-v2="" smart-repeat="gif in gifList" more-data="" more-data-disable="" max-columns="4" max-column-width="500" min-column-width="250" border-width="10" style="display: flex;"><div class="column-1" style="display: inline-flex; flex-direction: column; flex-basis: 100%; padding: 5px;">
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/JauntyPossibleHochstettersfrog" href="/%40weedporndaily/albums/high_profits/detail/JauntyPossibleHochstettersfrog">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/JauntyPossibleHochstettersfrog-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - drying buds" src="https://thumbs.gfycat.com/JauntyPossibleHochstettersfrog-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - drying buds</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/PastLavishDeer" href="/%40weedporndaily/albums/high_profits/detail/PastLavishDeer">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/PastLavishDeer-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - smelling the herb" src="https://thumbs.gfycat.com/PastLavishDeer-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - smelling the herb</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/NegativeSilverHornbill" href="/%40weedporndaily/albums/high_profits/detail/NegativeSilverHornbill">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/NegativeSilverHornbill-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - baby pot plants" src="https://thumbs.gfycat.com/NegativeSilverHornbill-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - baby pot plants</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/ImaginativeRipeCrossbill" href="/%40weedporndaily/albums/high_profits/detail/ImaginativeRipeCrossbill">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/ImaginativeRipeCrossbill-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - pouring out the nugs" src="https://thumbs.gfycat.com/ImaginativeRipeCrossbill-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - pouring out the nugs</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/MixedBriefGalapagosdove" href="/%40weedporndaily/albums/high_profits/detail/MixedBriefGalapagosdove">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/MixedBriefGalapagosdove-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - indoor pot plant" src="https://thumbs.gfycat.com/MixedBriefGalapagosdove-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - indoor pot plant</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/HelplessScratchyBream" href="/%40weedporndaily/albums/high_profits/detail/HelplessScratchyBream">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/HelplessScratchyBream-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - flipping pounds" src="https://thumbs.gfycat.com/HelplessScratchyBream-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - flipping pounds</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/SinfulMessyCoypu" href="/%40weedporndaily/albums/high_profits/detail/SinfulMessyCoypu">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/SinfulMessyCoypu-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - sea of green" src="https://thumbs.gfycat.com/SinfulMessyCoypu-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - sea of green</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/ThoughtfulUnfoldedFlyinglemur" href="/%40weedporndaily/albums/high_profits/detail/ThoughtfulUnfoldedFlyinglemur">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/ThoughtfulUnfoldedFlyinglemur-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - touching the green" src="https://thumbs.gfycat.com/ThoughtfulUnfoldedFlyinglemur-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - touching the green</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/EqualSoupyGrizzlybear" href="/%40weedporndaily/albums/high_profits/detail/EqualSoupyGrizzlybear">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/EqualSoupyGrizzlybear-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="High Profits - grower inside cannabis grow" src="https://thumbs.gfycat.com/EqualSoupyGrizzlybear-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - grower inside cannabis grow</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/NimbleGenerousBudgie" href="/%40weedporndaily/albums/high_profits/detail/NimbleGenerousBudgie">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/NimbleGenerousBudgie-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - pouring out buds 3" src="https://thumbs.gfycat.com/NimbleGenerousBudgie-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - pouring out buds 3</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/YoungGrossBassethound" href="/%40weedporndaily/albums/high_profits/detail/YoungGrossBassethound">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/YoungGrossBassethound-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - weighing medical marijuana" src="https://thumbs.gfycat.com/YoungGrossBassethound-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - weighing medical marijuana</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/LikelyAnguishedAngwantibo" href="/%40weedporndaily/albums/high_profits/detail/LikelyAnguishedAngwantibo">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/LikelyAnguishedAngwantibo-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - dispensary weed" src="https://thumbs.gfycat.com/LikelyAnguishedAngwantibo-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - dispensary weed</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/SlimNegativeCanine" href="/%40weedporndaily/albums/high_profits/detail/SlimNegativeCanine">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/SlimNegativeCanine-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - intro" src="https://thumbs.gfycat.com/SlimNegativeCanine-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - intro</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/ActiveSnarlingGrasshopper" href="/%40weedporndaily/albums/high_profits/detail/ActiveSnarlingGrasshopper">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/ActiveSnarlingGrasshopper-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - dispensary products" src="https://thumbs.gfycat.com/ActiveSnarlingGrasshopper-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - dispensary products</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/NeglectedZanyEthiopianwolf" href="/%40weedporndaily/albums/high_profits/detail/NeglectedZanyEthiopianwolf">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/NeglectedZanyEthiopianwolf-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - dispensary indoor" src="https://thumbs.gfycat.com/NeglectedZanyEthiopianwolf-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - dispensary indoor</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  </div><div class="column-2" style="display: inline-flex; flex-direction: column; flex-basis: 100%; padding: 5px;">
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/PlaintiveReflectingBasil" href="/%40weedporndaily/albums/high_profits/detail/PlaintiveReflectingBasil">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/PlaintiveReflectingBasil-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - enjoying a joint" src="https://thumbs.gfycat.com/PlaintiveReflectingBasil-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - enjoying a joint</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/SimilarHatefulKitten" href="/%40weedporndaily/albums/high_profits/detail/SimilarHatefulKitten">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/SimilarHatefulKitten-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - sparking up a joint" src="https://thumbs.gfycat.com/SimilarHatefulKitten-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - sparking up a joint</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/SoupySolidDachshund" href="/%40weedporndaily/albums/high_profits/detail/SoupySolidDachshund">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/SoupySolidDachshund-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - counting cash 4" src="https://thumbs.gfycat.com/SoupySolidDachshund-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - counting cash 4</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/BitesizedMajorGalapagosmockingbird" href="/%40weedporndaily/albums/high_profits/detail/BitesizedMajorGalapagosmockingbird">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/BitesizedMajorGalapagosmockingbird-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - smoking joints" src="https://thumbs.gfycat.com/BitesizedMajorGalapagosmockingbird-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - smoking joints</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/SkeletalDangerousHen" href="/%40weedporndaily/albums/high_profits/detail/SkeletalDangerousHen">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/SkeletalDangerousHen-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - weed in coffee grinder" src="https://thumbs.gfycat.com/SkeletalDangerousHen-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - weed in coffee grinder</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/FewYearlyArcticwolf" href="/%40weedporndaily/albums/high_profits/detail/FewYearlyArcticwolf">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/FewYearlyArcticwolf-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, bong, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - bong hits wow" src="https://thumbs.gfycat.com/FewYearlyArcticwolf-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - bong hits wow</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/bong" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#bong</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/FlickeringFamiliarAbyssiniangroundhornbill" href="/%40weedporndaily/albums/high_profits/detail/FlickeringFamiliarAbyssiniangroundhornbill">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/FlickeringFamiliarAbyssiniangroundhornbill-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - free joints" src="https://thumbs.gfycat.com/FlickeringFamiliarAbyssiniangroundhornbill-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - free joints</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/IllinformedLimitedHypsilophodon" href="/%40weedporndaily/albums/high_profits/detail/IllinformedLimitedHypsilophodon">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/IllinformedLimitedHypsilophodon-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, joint, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - stuffing cones" src="https://thumbs.gfycat.com/IllinformedLimitedHypsilophodon-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - stuffing cones</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/KnobbyEmptyAustraliansilkyterrier" href="/%40weedporndaily/albums/high_profits/detail/KnobbyEmptyAustraliansilkyterrier">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/KnobbyEmptyAustraliansilkyterrier-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - bags of medical marijuana" src="https://thumbs.gfycat.com/KnobbyEmptyAustraliansilkyterrier-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - bags of medical marijuana</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/HighPertinentBrontosaurus" href="/%40weedporndaily/albums/high_profits/detail/HighPertinentBrontosaurus">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/HighPertinentBrontosaurus-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - grinding weed in coffee grinder" src="https://thumbs.gfycat.com/HighPertinentBrontosaurus-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - grinding weed in coffee grinder</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/FirmNauticalAntbear" href="/%40weedporndaily/albums/high_profits/detail/FirmNauticalAntbear">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/FirmNauticalAntbear-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - pouring out buds" src="https://thumbs.gfycat.com/FirmNauticalAntbear-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - pouring out buds</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/UnitedTartIberianbarbel" href="/%40weedporndaily/albums/high_profits/detail/UnitedTartIberianbarbel">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/UnitedTartIberianbarbel-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - blowing smoke" src="https://thumbs.gfycat.com/UnitedTartIberianbarbel-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - blowing smoke</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/GiganticFaithfulAdmiralbutterfly" href="/%40weedporndaily/albums/high_profits/detail/GiganticFaithfulAdmiralbutterfly">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/GiganticFaithfulAdmiralbutterfly-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - sparking joint" src="https://thumbs.gfycat.com/GiganticFaithfulAdmiralbutterfly-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - sparking joint</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/HairyWellinformedKite" href="/%40weedporndaily/albums/high_profits/detail/HairyWellinformedKite">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/HairyWellinformedKite-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - buds" src="https://thumbs.gfycat.com/HairyWellinformedKite-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - buds</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/UnlinedAnxiousEgret" href="/%40weedporndaily/albums/high_profits/detail/UnlinedAnxiousEgret">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/UnlinedAnxiousEgret-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, highprofits3" src="https://thumbs.gfycat.com/UnlinedAnxiousEgret-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">highprofits3</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  </div><div class="column-3" style="display: inline-flex; flex-direction: column; flex-basis: 100%; padding: 5px;">
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/DopeyHonestFly" href="/%40weedporndaily/albums/high_profits/detail/DopeyHonestFly">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/DopeyHonestFly-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, dab, dabbing, dabs, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - fat dab" src="https://thumbs.gfycat.com/DopeyHonestFly-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - fat dab</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/dab" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#dab</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/LimpingFickleAmericanindianhorse" href="/%40weedporndaily/albums/high_profits/detail/LimpingFickleAmericanindianhorse">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/LimpingFickleAmericanindianhorse-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - weed plant 2" src="https://thumbs.gfycat.com/LimpingFickleAmericanindianhorse-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - weed plant 2</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/SillyRevolvingIvorybackedwoodswallow" href="/%40weedporndaily/albums/high_profits/detail/SillyRevolvingIvorybackedwoodswallow">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/SillyRevolvingIvorybackedwoodswallow-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - colorado snow town" src="https://thumbs.gfycat.com/SillyRevolvingIvorybackedwoodswallow-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - colorado snow town</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/DampLegalGroundbeetle" href="/%40weedporndaily/albums/high_profits/detail/DampLegalGroundbeetle">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/DampLegalGroundbeetle-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - counting cash 5" src="https://thumbs.gfycat.com/DampLegalGroundbeetle-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - counting cash 5</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/RevolvingWhiteAlbertosaurus" href="/%40weedporndaily/albums/high_profits/detail/RevolvingWhiteAlbertosaurus">
+            <div class="image-container" style="padding-bottom: 56.2222%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/RevolvingWhiteAlbertosaurus-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - dancing nugs" src="https://thumbs.gfycat.com/RevolvingWhiteAlbertosaurus-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - dancing nugs</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/GrimMenacingKinkajou" href="/%40weedporndaily/albums/high_profits/detail/GrimMenacingKinkajou">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/GrimMenacingKinkajou-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - counting cash 2" src="https://thumbs.gfycat.com/GrimMenacingKinkajou-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - counting cash 2</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/GlumBlandGrub" href="/%40weedporndaily/albums/high_profits/detail/GlumBlandGrub">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/GlumBlandGrub-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - ground up weed" src="https://thumbs.gfycat.com/GlumBlandGrub-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - ground up weed</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/OccasionalElegantInchworm" href="/%40weedporndaily/albums/high_profits/detail/OccasionalElegantInchworm">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/OccasionalElegantInchworm-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - pouring out buds 2" src="https://thumbs.gfycat.com/OccasionalElegantInchworm-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - pouring out buds 2</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/GivingGraveAmbushbug" href="/%40weedporndaily/albums/high_profits/detail/GivingGraveAmbushbug">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/GivingGraveAmbushbug-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - dispensary buds" src="https://thumbs.gfycat.com/GivingGraveAmbushbug-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - dispensary buds</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/CarefreePoliticalAntelopegroundsquirrel" href="/%40weedporndaily/albums/high_profits/detail/CarefreePoliticalAntelopegroundsquirrel">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/CarefreePoliticalAntelopegroundsquirrel-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - weed plants 3" src="https://thumbs.gfycat.com/CarefreePoliticalAntelopegroundsquirrel-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - weed plants 3</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/KlutzyPoliticalFantail" href="/%40weedporndaily/albums/high_profits/detail/KlutzyPoliticalFantail">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/KlutzyPoliticalFantail-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - colorado snow town timelapse" src="https://thumbs.gfycat.com/KlutzyPoliticalFantail-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - colorado snow town timelapse</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/GoodnaturedAnimatedAfricanwildcat" href="/%40weedporndaily/albums/high_profits/detail/GoodnaturedAnimatedAfricanwildcat">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/GoodnaturedAnimatedAfricanwildcat-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, money, pot, stoner, television, tv, weed, High Profits - counting cash" src="https://thumbs.gfycat.com/GoodnaturedAnimatedAfricanwildcat-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - counting cash</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/PartialConsiderateJanenschia" href="/%40weedporndaily/albums/high_profits/detail/PartialConsiderateJanenschia">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/PartialConsiderateJanenschia-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, highprofits2" src="https://thumbs.gfycat.com/PartialConsiderateJanenschia-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">highprofits2</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/TerribleEsteemedIrishterrier" href="/%40weedporndaily/albums/high_profits/detail/TerribleEsteemedIrishterrier">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/TerribleEsteemedIrishterrier-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - ganja plant" src="https://thumbs.gfycat.com/TerribleEsteemedIrishterrier-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - ganja plant</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/DarkBaggyHalibut" href="/%40weedporndaily/albums/high_profits/detail/DarkBaggyHalibut">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/DarkBaggyHalibut-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, money bag, pot, stoner, television, tv, weed, High Profits - tossing money in a bag" src="https://thumbs.gfycat.com/DarkBaggyHalibut-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - tossing money in a bag</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  </div><div class="column-4" style="display: inline-flex; flex-direction: column; flex-basis: 100%; padding: 5px;">
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/WeepyWebbedCuckoo" href="/%40weedporndaily/albums/high_profits/detail/WeepyWebbedCuckoo">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/WeepyWebbedCuckoo-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - pouring in the weed" src="https://thumbs.gfycat.com/WeepyWebbedCuckoo-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - pouring in the weed</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/ClearcutDistortedBovine" href="/%40weedporndaily/albums/high_profits/detail/ClearcutDistortedBovine">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/ClearcutDistortedBovine-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - dispensary counter" src="https://thumbs.gfycat.com/ClearcutDistortedBovine-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - dispensary counter</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/InfatuatedTheseFly" href="/%40weedporndaily/albums/high_profits/detail/InfatuatedTheseFly">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/InfatuatedTheseFly-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - dense cola" src="https://thumbs.gfycat.com/InfatuatedTheseFly-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - dense cola</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/LivelyNastyArmednylonshrimp" href="/%40weedporndaily/albums/high_profits/detail/LivelyNastyArmednylonshrimp">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/LivelyNastyArmednylonshrimp-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - picking up joints from a platter" src="https://thumbs.gfycat.com/LivelyNastyArmednylonshrimp-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() --><video data-ng-if="isVideoShown()" autoplay="" loop="" class="video above ng-scope" data-ng-mouseleave="mouseLeft()" muted="" ng-attr-poster="{{imageUrl}}" itemscope="" itemtype="http://schema.org/VideoObject" poster="https://thumbs.gfycat.com/LivelyNastyArmednylonshrimp-mobile.jpg" style="">
+                <source data-ng-src="https://thumbs.gfycat.com/LivelyNastyArmednylonshrimp-mobile.mp4" type="video/mp4" src="https://thumbs.gfycat.com/LivelyNastyArmednylonshrimp-mobile.mp4">
+                <source data-ng-src="https://zippy.gfycat.com/LivelyNastyArmednylonshrimp.mp4" type="video/mp4" src="https://zippy.gfycat.com/LivelyNastyArmednylonshrimp.mp4">
+                <source data-ng-src="https://zippy.gfycat.com/LivelyNastyArmednylonshrimp.webm" type="video/webm" src="https://zippy.gfycat.com/LivelyNastyArmednylonshrimp.webm">
+            </video><!-- end ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - picking up joints from a platter</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/WelloffCornyHorsechestnutleafminer" href="/%40weedporndaily/albums/high_profits/detail/WelloffCornyHorsechestnutleafminer">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/WelloffCornyHorsechestnutleafminer-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - weed leaf" src="https://thumbs.gfycat.com/WelloffCornyHorsechestnutleafminer-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - weed leaf</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/AccurateAgileAmericanpainthorse" href="/%40weedporndaily/albums/high_profits/detail/AccurateAgileAmericanpainthorse">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/AccurateAgileAmericanpainthorse-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - indoor ganja grow" src="https://thumbs.gfycat.com/AccurateAgileAmericanpainthorse-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - indoor ganja grow</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/EasygoingWindyAlbertosaurus" href="/%40weedporndaily/albums/high_profits/detail/EasygoingWindyAlbertosaurus">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/EasygoingWindyAlbertosaurus-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - bong hits" src="https://thumbs.gfycat.com/EasygoingWindyAlbertosaurus-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - bong hits</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/PlushInsidiousChimpanzee" href="/%40weedporndaily/albums/high_profits/detail/PlushInsidiousChimpanzee">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/PlushInsidiousChimpanzee-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - cannabis garden" src="https://thumbs.gfycat.com/PlushInsidiousChimpanzee-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - cannabis garden</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/SerpentineSimpleAstrangiacoral" href="/%40weedporndaily/albums/high_profits/detail/SerpentineSimpleAstrangiacoral">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/SerpentineSimpleAstrangiacoral-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, money, pot, stoner, television, tv, weed, High Profits - counting money" src="https://thumbs.gfycat.com/SerpentineSimpleAstrangiacoral-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - counting money</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/AromaticPreciousGuillemot" href="/%40weedporndaily/albums/high_profits/detail/AromaticPreciousGuillemot">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/AromaticPreciousGuillemot-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, cash, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - stacks of cash" src="https://thumbs.gfycat.com/AromaticPreciousGuillemot-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - stacks of cash</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cash" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cash</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/BlissfulSnivelingGiantschnauzer" href="/%40weedporndaily/albums/high_profits/detail/BlissfulSnivelingGiantschnauzer">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/BlissfulSnivelingGiantschnauzer-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - smoke porn" src="https://thumbs.gfycat.com/BlissfulSnivelingGiantschnauzer-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - smoke porn</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/ReflectingLimpBarnowl" href="/%40weedporndaily/albums/high_profits/detail/ReflectingLimpBarnowl">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/ReflectingLimpBarnowl-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - flowering pot plants with pistils" src="https://thumbs.gfycat.com/ReflectingLimpBarnowl-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - flowering pot plants with pistils</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/ThatExcellentIndianglassfish" href="/%40weedporndaily/albums/high_profits/detail/ThatExcellentIndianglassfish">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/ThatExcellentIndianglassfish-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - girl sparking a joint" src="https://thumbs.gfycat.com/ThatExcellentIndianglassfish-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - girl sparking a joint</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  
+    <gfy-small-thumb noreflow="true" data="gif" show-video-info="true" round-border="true" video-size="original" link="$parent.$parent.generateUrl(gif)" style="display: block; visibility: visible; padding-bottom: 10px;" class="ng-scope ng-isolate-scope"><div class="gfy-small-thumb round-border" ng-class="{'round-border': roundBorder}" itemscope="" itemtype="http://schema.org/Article" style="">
+    <div class="video-container" ng-class="{'no-info': noInfo}">
+        <a ng-href="/%40weedporndaily/albums/high_profits/detail/DistortedImaginativeBuzzard" href="/%40weedporndaily/albums/high_profits/detail/DistortedImaginativeBuzzard">
+            <div class="image-container" style="padding-bottom: 56.2069%;">
+                <img class="image-noreflow" data-ng-mouseenter="mouseEnter()" data-ng-src="https://thumbs.gfycat.com/DistortedImaginativeBuzzard-mobile.jpg" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" alt="420, buds, cannabis, g4, g4tv, ganja, green, herb, high profits, kush, marijuana, mary jane, medical marijuana, mmj, pot, stoner, television, tv, weed, High Profits - pot plants" src="https://thumbs.gfycat.com/DistortedImaginativeBuzzard-mobile.jpg">
+            </div>
+            <!-- ngIf: isVideoShown() -->
+        </a>
+    </div>
+    <!-- ngIf: !noInfo && infoVisible --><div class="video-info ng-scope" ng-if="!noInfo &amp;&amp; infoVisible" style="">
+        <span class="title ng-binding">High Profits - pot plants</span>
+        <span class="tags">
+            <!-- ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/420" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#420</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/buds" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#buds</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/cannabis" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#cannabis</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags --><a ng-repeat="tag in data.tags | limitTo: maxNumTags" class="tag ng-binding ng-scope" href="/gifs/search/g4" target="_self" ng-click="sendTagClickEvent(tag);$event.stopPropagation()">#g4</a><!-- end ngRepeat: tag in data.tags | limitTo: maxNumTags -->
+        </span>
+    </div><!-- end ngIf: !noInfo && infoVisible -->
+</div></gfy-small-thumb>
+  </div></div>

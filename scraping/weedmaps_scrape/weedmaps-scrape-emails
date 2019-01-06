@@ -1,0 +1,115 @@
+<?php
+
+
+function get_data($url) {
+  $proxy = 'socks4://47.52.24.117:80';
+	$ch = curl_init();
+	$timeout = 3;
+	curl_setopt($ch, CURLOPT_URL, $url);
+  curl_setopt($ch, CURLOPT_PROXY, $proxy);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, $timeout);
+  curl_setopt($ch,CURLOPT_USERAGENT,'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13');
+	$data = curl_exec($ch);
+	curl_close($ch);
+	return $data;
+}
+
+// connect to mysql
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "weedmaps_brands";
+
+// Create connection
+$conn = new mysqli($servername, $username, $password, $dbname);
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+
+for($i=22; $i <= 125; $i++) {
+
+  // pull API
+  $url = 'http://localhost:80/miniProxy.php?https://www.cannabisreports.com/api/v1.0/products?page='. $i;
+  $json_new = get_data($url);
+  $obj = json_decode($json_new);
+  // print_r($obj);
+
+  // print CSV friendly format
+  // CSV Headers
+  // echo "Name, Slug, Avatar, Premium <br />";
+
+  // loop every entry
+  foreach($obj->data as $brand) {
+
+
+  $name = $brand->name;
+  echo $name . ',';
+
+  $link = $brand->link;
+  echo $link . ',';
+  if($brand->image) {
+  	$image = $brand->image;
+  	echo $image . ',';
+  }
+
+  $type = $brand->type;
+  echo $type . ',';
+  $brand_name = $brand->producer->name;
+  echo $brand_name . ',';
+  $brand_link = $brand->producer->link;
+  echo $brand_link . ',';
+  if(!empty($brand->strain)) {
+    $strain = implode(", ", $brand->strain);
+    echo $strain . ',';
+  }
+  $lab_test = $brand->labTest;
+  echo $lab_test . ',';
+  $thc = $brand->thc;
+  echo $thc . ',';
+  $cbd = $brand->cbd;
+  echo $cbd . ',';
+  $cannabis = $brand->cannabis;
+  echo $cannabis . ',';
+  $hash_oil = $brand->hashOil;
+  echo $hash_oil . ',';
+  $date_created = date('Y-m-d g:ia');
+  echo $date_created . '<br />';
+
+
+
+  $sql_select = "SELECT name from cr_products WHERE name = '$name' AND brand_name = '$brand_name'";
+  $check = $conn->query($sql_select);
+
+  if($check->num_rows == 0) {
+
+    // Insert into DB
+    $sql = "INSERT INTO cr_products (name, link, image, brand_name, brand_link, type, strain, lab_test, thc, cbd, cannabis, hash_oil, date_created, date_modified)
+    VALUES ('$name', '$link', '$image', '$brand_name', '$brand_link', '$type', '$strain', '$lab_test', '$thc', '$cbd', '$cannabis', '$hash_oil', '$date_created', '$date_created')";
+
+    //check for errors - print in JS console
+    if ($conn->query($sql) === TRUE) {
+        ?>
+    	<script>
+    		console.log('Success');
+    	</script>
+        <?php
+    } else {
+        ?>
+    	<script>
+    		console.log('Error');
+    	</script>
+        <?php
+    }
+  } // end check for duplicates
+  	// CSV Content
+
+  } // end loop for entries
+  sleep(5);
+} // end loop for 125 pages
+
+// close mySQL connection
+$conn->close();
+
+?>

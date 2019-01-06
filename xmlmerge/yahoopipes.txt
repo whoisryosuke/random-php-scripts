@@ -1,0 +1,7 @@
+Yahoo Pipes Page:
+
+http://pipes.yahoo.com/pipes/pipe.info?_id=9ddcc9adb17fed54e1ce9d6470676c6b
+
+RSS:
+
+http://pipes.yahoo.com/pipes/pipe.run?_id=9ddcc9adb17fed54e1ce9d6470676c6b&_render=rss
